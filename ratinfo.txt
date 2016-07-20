@@ -1,0 +1,98 @@
+Hiatus, due to 3 months having been wasted on this, and while its functional, it's not finished yet.
+I don't feel like getting  buttraped in jail aka I can't sell this, and I don't feel like releasing it - buttrape too.
+
+
+
+filebrowser with 
+	upload - done 
+	download - done
+	delete - done
+	http upload - done
+	http update - done
+	http download&execute - done
+run command - done
+dos udp&http - done
+allow running stuff @multiple users at once for dos&runcmd&delete user - done
+add mass http dl&exec/update - done
+offline user browser - done
+delete user - done
+keylogger - done
+add clipboard text logging to keylogger - done
+keyboard blocking - done
+mouse blocking - done
+add task manager disabling - done
+add taskbar disabling - done
+add disk tray open/close - done
+add desktop disabling - done
+client timeout - done
+add callback to run command - done
+add shutdown/reboot/sleep/hibernate/standby/log off - done ( put them into misc )
+support for bigger files - done
+maybe transfer files via tcp - done
+add server->client file transfer via tcp - done 
+fix keylogger ( random chars, crashing ) - done
+screenshare - done
+
+do following tasks in order:
+
+add download for folders ( maybe zip? ) - 0%
+fix crash when looking at folders with A LOT of content - 0%
+improve filebrowser menu - 0%
+add utf8 support for file browsing -  0%
+add utf8 support for keylogging, improve keylogging - 0%
+reverse proxy/reverse vpn - 0%
+monitoring/editing settings (system information, startup manager, process manager, registry manager, window manager) - 0%
+password recovery - 0%
+webcam/mic logging - 0%
+ransomware - 0%
+add automatic adaptation on proper ip and key in cl - 30%
+user logs - 50%
+protect networking - 0%
+protect client - 0%
+add upnp - 0%
+maybe improve menu - 0%
+maybe add offline keylogger - 0%
+fix screenshare memleak when streaming - 0%
+fix screenshare crash when using fullscreen mode - 0%
+try to find out why qt uses so much damn cpu - 0%
+
+recover:
+{
+
+browsers__
+firefox
+chrome
+safari
+opera
+ie
+edge
+
+programs:
+Filezilla
+putty
+winscp
+wlan creds	
+
+messengers:
+steam
+skype
+windows live/msn
+pidgin
+IMVU
+ICQ
+
+general:
+cdkeys
+windows key
+
+}
+
+monitor:
+{
+registrymanager
+processmanager
+servicemanager
+startup manager
+anusmanager
+}
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\Userinit] ||| [HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run]
